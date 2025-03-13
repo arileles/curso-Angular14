@@ -1,0 +1,8 @@
+.paragrafo {
+  font-size: 2rem;
+  color: #04388b; /* Cor branca para garantir boa visibilidade sobre o fundo */
+  background-color: rgba(142, 169, 228, 0.5); /* Fundo semi-transparente para melhorar contraste */
+  padding: 1rem 2rem;
+  border-radius: 10px; /* Adiciona bordas arredondadas */
+  text-align: center; /* Garante que o texto do parágrafo seja centralizado */
+}
